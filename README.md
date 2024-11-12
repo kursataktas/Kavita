@@ -1,4 +1,4 @@
-﻿# [<img src="/Logo/kavita.svg" width="32" alt="">]() Kavita
+# [<img src="/Logo/kavita.svg" width="32" alt="">]() Kavita
 <div align="center">
 
 ![new_github_preview_stills](https://github.com/user-attachments/assets/f016b34f-3c4c-4f07-8e72-12cd6f4e71ea)
@@ -18,6 +18,7 @@ your reading collection with your friends and family!
 <img src="https://hosted.weblate.org/widgets/kavita/-/ui/svg-badge.svg" alt="Translation status" />
 </a>
 <img src="https://img.shields.io/endpoint?url=https://stats.kavitareader.com/api/ui/shield-badge"/>
+[![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20Kavita%20Guru-006BFF)](https://gurubase.io/g/kavita)
 </div>
 
 
